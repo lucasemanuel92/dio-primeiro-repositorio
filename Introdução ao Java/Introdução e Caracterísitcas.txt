@@ -1,0 +1,38 @@
+# Características do Java
+
+1 - Compilada
+2 - Interpretada
+3 - Fortemente tipada
+4 - Linguagem de Alto Nível
+5 - Executada em uma máquina virtual (JVM)
+
+## Passos
+
+1 - Escreve-se o código fonte (extensão .java)
+2 - Compila-se gerando Bytecodes (extensão .class) Javac
+3 - É interpretada pela máquinia JVM
+
+# JVM
+
+É responsável por interpretar os Bytecodes oriundos do Javac
+
+## Características
+- Execução de Pilas
+- Gerenciamento de Memória
+- Gerenciamento de Threads
+- Otimização do Código (compilação JIT)
+- Garbage Collector (GC) (limpa memória "suja")
+
+# JRE e JDK
+JRE - executa os programas em java
+JDK - permite o desenvovilmento em JVA e já contem o JVM
+
+## Java SE 
+Contem especificações do Java e pode ser utilizado por empresas
+
+## Java EE
+Agora chamada de Jakarta é tudo que tem na versão SE e mais outros outros programs uteis
+
+## Java ME
+Utilizado para criar programas para dispoitivos menores
+
