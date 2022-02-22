@@ -1,0 +1,70 @@
+# O QUE SÃO ESTRUTURA DE DADOS
+
+Estrutura Organizada de dados na memória do PC ou de outro dispositivo de armazenamento 
+
+## Principais Ideias
+Inserir
+Excluir
+Localizar
+Percorrer Itens
+Classificar em Determinada Ordem
+
+# Listas
+
+- Dados em ordem específica
+- Listas: tamanhos ajustados
+  obs.: Array (vetor) tem tamanho fixo
+
+## Ligadas
+
+- Nós (valores conhecidos) unidimensionais
+
+## Duplamente Ligadas
+
+- Nós bidirecionais
+- Navegação reversa é possível
+
+
+# Pilhas
+
+- Coleção de Elementos
+- Acesso a só 1 item por vez (visto ou removido)
+	- LIFO ou UEPS - primeiro que sai é o último que entra
+	- FIFO ou PEPS - primero que entra, primeiro que sai
+
+
+# Filas
+
+- Mesma ideia do FIFO
+
+
+# Vetores e Matrizes
+
+- Várias variáveis de mesmo tipo
+- Estrutura indexada
+
+obs. Lembrar que o index começa com o valor 0, logo o ultimo valor é localizado pela posição n-1
+
+
+# Registro
+
+- Armazenar dados diferente
+
+
+# Árvores
+
+- Elementos organizados de forma hierárquica, as folhas ou nós são elementos subordinados
+
+
+# Tabela Hash
+
+- Associa chaves de pesquisa a valores
+- Espalha os elementos de forma não ordenada
+- Usada para criptografar dados
+	Valores: posição ou indice que o elemento se encontra
+	Chave: parte da informação que caracteriza o elemento
+
+# Grafos
+
+- Relação entre objetos, sendo que os objetos podem estar relacionados com vários outros ao mesmo tempo
+- Usado em Redes Sociais

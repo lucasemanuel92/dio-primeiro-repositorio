@@ -1,0 +1,6 @@
+# Coisas para Fazer pós curso bootcamp para Estudo do Git e GitHub
+
+- [] Rever Curso de Introdução
+- [] Procurar Exercícios Online
+- [] Rever os conceitos com Enos (amigo programador da GFT)
+- [] Praticar até que os comandos venham na mente de forma natural
